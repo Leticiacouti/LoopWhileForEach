@@ -1,0 +1,15 @@
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\LoopWhileForEach.exe
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\LoopWhileForEach.deps.json
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\LoopWhileForEach.runtimeconfig.json
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\LoopWhileForEach.runtimeconfig.dev.json
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\LoopWhileForEach.dll
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\ref\LoopWhileForEach.dll
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\bin\Debug\net5.0\LoopWhileForEach.pdb
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.AssemblyInfoInputs.cache
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.AssemblyInfo.cs
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.csproj.CoreCompileInputs.cache
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.dll
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\ref\LoopWhileForEach.dll
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.pdb
+D:\Leticia\Projetos C#\LoopWhileForEach\LoopWhileForEach\obj\Debug\net5.0\LoopWhileForEach.genruntimeconfig.cache
